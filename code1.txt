@@ -7,3 +7,5 @@ sadlkj
 
 my change 2
 // another line
+
+Added master change
